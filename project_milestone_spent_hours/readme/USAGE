@@ -4,7 +4,8 @@ project_milestone_spent_hours/static/description/task1.png
 
 project_milestone_spent_hours/static/description/task2.png
 
+![task 1](../static/description/task2.png)
 
+I notice that the field `default_code` is required.
+![task1](../static/description/task1.png)
 
-
-![task 1](../static/description/task1.png)
