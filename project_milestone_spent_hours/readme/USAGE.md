@@ -1,11 +1,7 @@
 As a `Project/User`, I create timesheets and set duration for 2 tasks associated to the same milestone.
 
-project_milestone_spent_hours/static/description/task1.png
-
-project_milestone_spent_hours/static/description/task2.png
-
-![task 1](../static/description/task2.png)
+![task 1](../static/description/task1.png)
 
 I notice that the field `default_code` is required.
-![task1](../static/description/task1.png)
+![task 2](../static/description/task2.png)
 
