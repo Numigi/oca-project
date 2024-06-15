@@ -25,6 +25,7 @@ When clicking on an amount of consumed hours, the list of analytic lines composi
 
 
 - Lump Sum Projects
+
 When a sub-project is a lump sum, it is excluded from the report.
 ![Analytic line list no lump sum](../static/description/analytic_line_list_no_lump_sum.png)
 
