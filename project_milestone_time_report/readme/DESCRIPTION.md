@@ -1,1 +1,1 @@
-Add a dynamic milestone time report on projects.
+This module add a Dynamic Milestone Time Report on Projects.
