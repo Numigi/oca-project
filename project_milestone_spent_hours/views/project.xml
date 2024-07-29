@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <odoo>
     <!-- Form View -->
-    <record id="project_milestone_estimated_hours_view_form" model="ir.ui.view">
-        <field name="name">Project Milestone Estimated Hours Form</field>
+    <record id="project_milestone_spent_hours_view_form" model="ir.ui.view">
+        <field name="name">Project Milestone Spent Hours Form</field>
         <field name="model">project.project</field>
         <field
             name="inherit_id"
@@ -14,9 +14,8 @@
                 expr="//page[@name='milestone_ids']/group/field[@name='milestone_ids']/tree/field[@name='project_task_ids']"
                 position="after"
             >
-                <field name="estimated_hours" />
+                <field name="total_hours" />
             </xpath>
         </field>
     </record>
-
 </odoo>
